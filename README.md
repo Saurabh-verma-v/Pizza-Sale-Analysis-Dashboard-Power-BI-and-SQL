@@ -71,39 +71,6 @@ The dashboard includes:
 
 ---
 
-## Dashboard Preview
-
-Add your dashboard screenshot here:
-
-```md
-![Dashboard](Power BI Dashboard/dashboard_screenshot.png)
-```
-
----
-
-## Project Folder Structure
-
-```text
-Pizza-Sales-Analysis/
-│
-├── Dataset/
-│   ├── orders.csv
-│   ├── order_details.csv
-│   ├── pizzas.csv
-│   ├── pizza_types.csv
-│
-├── SQL Queries/
-│   ├── business_questions.sql
-│   ├── analysis_queries.sql
-│
-├── Power BI Dashboard/
-│   ├── Pizza_Sales_Dashboard.pbix
-│   ├── dashboard_screenshot.png
-│
-└── README.md
-```
-
----
 
 ## Project Objective
 
